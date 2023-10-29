@@ -1,0 +1,5 @@
+com\crud\crudjava\dao\EstudianteDao.class
+com\crud\crudjava\dao\EstudianteDaoImplementacion.class
+com\crud\crudjava\CrudjavaApplication.class
+com\crud\crudjava\models\Estudiante.class
+com\crud\crudjava\controllers\EstudianteController.class
