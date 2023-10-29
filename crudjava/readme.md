@@ -8,12 +8,10 @@ El backend se encarga de manejar la lógica de la base de datos y proporciona en
 Obtener todos los estudiantes
 ```
 GET /api/estudiantes
-
 ```
 Obtener un estudiante por ID
 ```
 GET /api/estudiantes/{id}
-
 ```
 Agregar un nuevo estudiante
 ```
@@ -22,7 +20,6 @@ POST /api/estudiantes
 Actualizar un estudiante existente
 ```
 PUT /api/estudiantes/{id}
-
 ```
 Eliminar un estudiante
 ```
