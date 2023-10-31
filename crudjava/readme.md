@@ -41,8 +41,14 @@ El frontend proporciona una interfaz de usuario simple para interactuar con el s
 - CSS
 - JavaScript
   
-#### Backend
+### Backend
 - Java
 - Spring boot web
 - Hibernate
 - JPA
+
+#### Squema 
+```
+estudiantes(id, nombre, apellido, email)
+```
+
