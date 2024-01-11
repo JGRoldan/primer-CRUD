@@ -36,12 +36,14 @@ El frontend proporciona una interfaz de usuario simple para interactuar con el s
 - Actualizar la información de un estudiante.
 - Eliminar un estudiante de la lista.
 ## Tecnologías utilizadas
-HTML
-CSS
-JavaScript
+HTML  
+CSS  
+JavaScript  
 ### Backend
-Node JS
+Node JS  
 Express JS
 
 ## Squema
+```
 estudiantes(id, nombre, apellido, email)
+```
